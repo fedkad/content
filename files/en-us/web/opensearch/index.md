@@ -109,7 +109,7 @@ If your site offers multiple search plugins, you can support autodiscovery for t
 <link
   rel="search"
   type="application/opensearchdescription+xml"
-  title="MySite: By Author"
+  title="MySite: By Auth"
   href="http://example.com/mysiteauthor.xml" />
 
 <link
